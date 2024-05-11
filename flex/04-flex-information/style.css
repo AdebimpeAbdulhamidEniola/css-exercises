@@ -24,3 +24,17 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*SOLUTION*/
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 2em;
+  gap: 2em;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
